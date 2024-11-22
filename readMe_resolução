@@ -1,1 +1,14 @@
+Previsão de Estoque Inteligente na AWS com SageMaker Canvas
 
+1 - Selecionar Dataset: 
+Fiz meu próprio dataset pensando em investimentos pessoais como criptmoedas, CDB etc.
+Basicamente queria fazer uma predição de quanto tempo investindo "x" por dia/mês eu teria uma renda "estável"
+
+2 - Construir e treinar:
+Selecionei o treinamento de 2h para um resultado mais próximo da realidade
+
+3 e 4 - Bom, eu fiz algumas divisões com juros compostos e os resultados me agradaram um pouco, chegando em algumas predições um pouco parecidas com o que calculei manualmente.
+O que calculei que seriam 30 anos guardando dinheiro, começando com R$300,00 e aumentando 10% do valor anualmente, com as previsões e treinamentos da ML teria um total de 1 milhão, mas senti dificuldades em pensar no seguinte:
+Tudo dependerá da situação financeira do país e até da minha situação.
+Há algumas coisas que não tem como calcular como: gastos com saúde, desemprego etc;
+Porém visando e tendo uma perspectiva positiva pode dar certo.
